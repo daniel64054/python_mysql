@@ -147,3 +147,5 @@ else:
 
 cx.commit()
 ```
+
+### criação do arquivo pra esclução de dados
